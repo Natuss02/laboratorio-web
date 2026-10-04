@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="LABORATORIO_WEB_9_EBI_2026_V4" version="1.0" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss">
+<metadata><schema>ADL SCORM</schema><schemaversion>2004 4th Edition</schemaversion></metadata>
+<organizations default="ORG_WEB"><organization identifier="ORG_WEB"><title>Laboratorio web · HTML y CSS · 9.º EBI · V4</title><item identifier="ITEM_WEB" identifierref="SCO_WEB"><title>Explorá, modificá y explicá</title><imsss:sequencing><imsss:deliveryControls completionSetByContent="true" objectiveSetByContent="true"/></imsss:sequencing></item></organization></organizations>
+<resources><resource identifier="SCO_WEB" type="webcontent" adlcp:scormType="sco" href="index.html"><file href="index.html"/><file href="ui.css"/><file href="lms.js"/><file href="zip.js"/><file href="app.js"/><file href="tools.js"/><file href="assets/html5.svg"/><file href="assets/css3.svg"/></resource></resources></manifest>
